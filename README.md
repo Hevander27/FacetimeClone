@@ -1,2 +1,1 @@
-Testing streaming functionality in iOS App
-Utilized https://getstream.io
+Testing streaming functionality in iOS app utilizing https://getstream.io
